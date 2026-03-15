@@ -8,5 +8,3 @@ analysis and short-term prediction, but not for true long-horizon forecasting.
 For real future forecasting, dedicated time-series models such as ARIMA,
 Prophet, or LSTM would be more appropriate.
 
-
-Silver price  prediction machine learning model
